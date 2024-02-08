@@ -1,0 +1,10 @@
+Thank you for using my Car Buying Calculator program. This program is designed residents of Wisconsin only. You will need the following information handy:
+
+- Year, make, and model of your car
+- Power source of your car (gas, hybrid, or electric)
+- The county where the car will be stored
+- Any applicable tax exemption documents
+- The sticker price of the car
+- Any trade-in values and/or down payments 
+
+Designed using Python
